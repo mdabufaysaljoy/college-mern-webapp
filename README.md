@@ -7,7 +7,7 @@ clone the repo in your computer, and create a .env.local file in the client fold
 ***.env.local for front-end (client)***
 ```
 VITE_IMAGE_UPLOAD_API_KEY=fdfb862b6ea6c28d6e01c4efd658ccbb
-VITE_FIREBASE_API_KEY=AIzaSyDMmRsP-TXE77uq7mIBcM7P4nhNQUIpWP8
+VITE_FIREBASE_API_KEY= use your api key
 VITE_FIREBASE_AUTH_DOMAIN=college-management-web-a-2a487.firebaseapp.com
 VITE_FIREBASE_PROJECT_ID=college-management-web-a-2a487
 VITE_FIREBASE_STORAGE_BUCKET=college-management-web-a-2a487.firebasestorage.app
